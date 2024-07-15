@@ -1,0 +1,4 @@
+python.exe -m pip install --upgrade pip
+pip install opencv-python pyzbar
+pip install pandas
+pip insatll openpyxl
