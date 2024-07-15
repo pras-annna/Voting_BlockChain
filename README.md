@@ -1,4 +1,4 @@
-Welcome to the Secure Voting with BlockChain ! This is Collaborative project done within 12hr as team with Srinivasan and Dharshna)
+Welcome to the Secure Voting with BlockChain ! This is Collaborative project done within 12hr as team with Srinivasan[https://github.com/Srini-23] and Dharshna[https://github.com/Dharshna2805]
 
 Blockchain-Based Voting System
 Overview
